@@ -1,6 +1,6 @@
 # Parcial Práctico
 
-Este repositorio contiene la solución en **Python 3** para el problema **"Tree: Top View"** y ... de HackerRank, correspondiente a la sección del parcial práctico 2.
+Este repositorio contiene la solución en **Python 3** para el problema **"Tree: Top View"** y **Swap nodes algo** de HackerRank, correspondiente a la sección del parcial práctico 2.
 
 ## Tree: Top View
 
@@ -71,3 +71,49 @@ Para el ejemplo anterior, la salida será:
 ```
 
 ---
+
+## "Swap Nodes Algo"
+
+### Cómo poner a funcionar el programa
+
+##### Opción 1: Ejecución Directa en HackerRank (Recomendado)
+1. Copia el código fuente completo del archivo `solucion2.py` de este repositorio.
+2. Ve al problema [swap nodes algo](https://www.hackerrank.com/challenges/swap-nodes-algo/problem?isFullScreen=true).
+3. Selecciona **Python 3** como lenguaje en el editor de HackerRank.
+4. Pega el código correspondiente a def swapNodes(indexes, queries)
+5. Presiona el botón **"Submit Code"**. Pasará todos los casos de prueba inmediatamente.
+
+#### Opcion 2: Ejecución Local en Visual Studio Code 
+
+Sigue estos pasos para clonar el proyecto y ejecutarlo directamente en tu entorno gráfico:
+
+1. **Clonar el repositorio desde VS Code:**
+   * Abre Visual Studio Code.
+   * Presiona `Ctrl + Shift + P` (o `Cmd + Shift + P` en Mac) para abrir la paleta de comandos.
+   * Escribe **Git: Clone** y presiona Enter.
+   * Pega el enlace de este repositorio: `https://github.com/LauraBernal18/Parcial2ADA.git` y selecciona la carpeta en tu computadora donde deseas guardarlo.
+
+2. **Abrir el proyecto:**
+   * Cuando aparezca la notificación en la esquina inferior derecha, haz clic en **Open** (Abrir) para cargar el espacio de trabajo.
+
+3. **Ejecutar el programa de Python:**
+   * Abre el archivo `solucion2.py` desde el explorador de archivos izquierdo.
+   * Asegúrate de tener instalada la extensión oficial de Python en tu VS Code.
+   * Haz clic en el botón de **Play** (icono de triángulo arriba a la derecha) o presiona clic derecho sobre el código y selecciona **Run Python File in Terminal** (Ejecutar archivo de Python en la terminal).
+
+4. **Ingreso de datos de prueba:**
+   * La terminal integrada de VS Code se abrirá en la parte inferior esperando la entrada de datos.
+   * Copia y pega el siguiente bloque completo de una sola vez en la terminal y presiona **Enter**:
+     ```text
+      3
+      2 3
+      -1 -1
+      -1 -1
+      2
+      1
+      1
+     ```
+   
+5. **Verificar el resultado:**
+   * Verás un mensaje de éxito en la terminal confirmando que el programa terminó.
+   * Automáticamente aparecerá un nuevo archivo llamado `resultado2.txt` en tu explorador de VS con la solución
