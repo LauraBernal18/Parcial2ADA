@@ -45,7 +45,7 @@ Cuando Visual Studio Code muestre la notificación de apertura del repositorio, 
 
 #### 3. Ejecutar el programa
 
-* Abre el archivo `solucion.py`.
+* Abre el archivo `solucion2.py`.
 * Verifica que tengas instalada la extensión oficial de Python para Visual Studio Code.
 * Ejecuta el programa presionando el botón **Run Python File** ubicado en la parte superior derecha o haciendo clic derecho sobre el archivo y seleccionando **Run Python File in Terminal**.
 
